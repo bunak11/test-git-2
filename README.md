@@ -9,3 +9,4 @@ git reset --hard - удаляет ВСЕ изменения
 
 git branch -работа с ветками
 git checkout [name branch] - переключиться на ветку
+git pull - переносит изменения из ветки github в локальную ветку в терминал vsc
